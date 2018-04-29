@@ -39,3 +39,9 @@ if A != None and b != None:
         print(val)
 else:
     print("Something went wrong")
+
+    
+    
+    
+    
+    
